@@ -1,3 +1,9 @@
 GitHub 4 Women
 
-Atividade Módulo 2 - Aula 3
+*Atividade Módulo 2 - Aula 3*
+- [x] Trabalhando com a criação de repositórios
+- [x] Trabalhando com a criação de pull requests
+
+*Atividade Módulo 3 - Aulas 4 e 5*
+- [ ] Trabalhando com reviews, comentários e merges em pull requests
+- [ ] Trabalhando com criação de projetos e vinculação de tasks
