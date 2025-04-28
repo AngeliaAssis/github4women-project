@@ -1,0 +1,7 @@
+GitHub4Women
+
+Atividade Módulo 3 - Aulas 4 e 5
+- [x] Criando issues
+- [x] Associando issues e pull requests
+- [ ] Criando discussion
+- [ ] Criando wikis
